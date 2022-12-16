@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+.images{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.images img{
+    width: 25%;
+}
+
+.images p{
+    font-size: 90pt;
+}
