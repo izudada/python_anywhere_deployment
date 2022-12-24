@@ -3,7 +3,7 @@
 This project is for the purpose of an article on how to deploy a Django application to [Pyhton Anywhere](https://www.pythonanywhere.com)
 
 
-Link to the article can be found [here](https://hashnode.com/draft/639a58ca0517875138ea6ba8)
+Link to the article can be found [here](https://izudada.hashnode.dev/how-to-deploy-a-django-application-to-python-anywhere)
 
 ### Useful resources
 
